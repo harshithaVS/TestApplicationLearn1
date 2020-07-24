@@ -22,6 +22,7 @@ namespace TestApplicationLearn1.Controllers
 
         public ActionResult Contact()
         {
+            //test push and resettest push and reset
             ViewBag.Message = "Your contact page.";
 
             return View();
